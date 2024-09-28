@@ -4,4 +4,4 @@ sources:
     schema: RAW_DATA  
     tables:
       - name: products
-      - name: customers
+      - name: orders
